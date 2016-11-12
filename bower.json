@@ -10,7 +10,7 @@
     "bootstrap",
     "theme"
   ],
-  "authors": ["rodney.zhang"],
+  "authors": ["Jenny"],
   "dependencies": {
     "jquery": "~2.1.1",
     "bootstrap": "~3.3.0",
